@@ -1,0 +1,2 @@
+# proyectointecap
+GIT/SUPERMERCADO
